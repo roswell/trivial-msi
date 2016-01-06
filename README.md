@@ -1,5 +1,7 @@
 # trivial-msi
 
+[![Build Status](https://travis-ci.org/roswell/trivial-msi.svg?branch=master)](https://travis-ci.org/roswell/trivial-msi)
+
 Utilities for working with [Windows Installer][msi] files.
 
 # Usage
